@@ -32,7 +32,7 @@ A simple and intuitive **GUI-based Calculator** built using **Python** and **Tki
 
 ---
 
-## 📸 Demo
+## 📦 How to Run the Project
 
 ```bash
 # Clone the repository
@@ -44,9 +44,24 @@ cd Calculator
 # Run the application
 python calculator.py
 ```
-⚠️ Ensure Python is installed on your system.
+## ⚠️ 
+- Make sure Python is installed on your system.
+- Run with python3 if you're on macOS or Linux.
 
 ---
 
+## 📝 License
+This project is licensed under the MIT License.
 
+---
 
+## 🙌 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📬 Contact
+Khemchand Kumar: 
+https://github.com/khemchandkumar
+
+---
